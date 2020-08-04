@@ -1,4 +1,6 @@
 # Reinforcment Learning using DDDQN with Prioritized experience replay
+*Master file: DDDQN_LSTM_XGB_PER.py
+
 A pretty complex project so I will only describe some of the details.
 This kind of project need a GPU otherwise it will take you years of training. I used a RTX 2080 ti which could run two sessions simultaniously.
 
